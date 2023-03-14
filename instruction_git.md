@@ -1,6 +1,6 @@
 # **Инструкция по работе с GIT**
 
-![Picture](img0.jpg)
+![Git logo](gitlogo.jpg)
 
 ## Общая информация по GIT
 
